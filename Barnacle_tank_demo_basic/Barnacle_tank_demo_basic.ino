@@ -1,4 +1,4 @@
-/* Barnacle_tank.ino
+/* Barnacle_tank_demo_basic.ino
 	Luke Miller 2015
 
 	Hardware:
